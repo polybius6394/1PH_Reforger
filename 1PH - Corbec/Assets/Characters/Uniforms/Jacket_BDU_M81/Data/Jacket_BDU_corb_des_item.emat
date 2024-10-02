@@ -1,5 +1,0 @@
-MatPBRBasic {
- CavityFromAO 1
- BCRMap "{72C00234361500C7}Patterns/tiger_fic_corb_wdl_neo_1.5x_BCR.edds"
- NMOMap "{D437CC296B522758}Assets/Characters/Uniforms/Jacket_BDU_M81/Data/Jacket_BDU_M81_item_NMO.edds"
-}
