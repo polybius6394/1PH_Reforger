@@ -10,18 +10,18 @@ GameEntity : "{D4BC1F7EC5C290A3}Prefabs/Characters/HeadGear/Hat_Boonie_US_01/Hat
   }
   MeshObject "{5112706CD4157AE0}" {
    Materials {
-    MaterialAssignClass "{6282E5DD0B3D78CE}" {
+    MaterialAssignClass "{6287569198BF61F0}" {
      SourceMaterial "Hat_Boonie_US_01"
-     AssignedMaterial "{58B59DEEA2569758}Assets/Characters/HeadGear/Hat_Boonie_US_01/Data/Hat_Boonie_US_01_corb_wdl.emat"
+     AssignedMaterial "{3ED7934CDE54E781}Assets/Characters/HeadGear/Hat_Boonie_US_01/Data/Hat_Boonie_US_01_corb_des.emat"
     }
    }
   }
   BaseLoadoutClothComponent "{5112706CD4157AF8}" {
    WornMaterialsOverride {
-    "{58B59DEEA2569758}Assets/Characters/HeadGear/Hat_Boonie_US_01/Data/Hat_Boonie_US_01_corb_wdl.emat"
+    "{3ED7934CDE54E781}Assets/Characters/HeadGear/Hat_Boonie_US_01/Data/Hat_Boonie_US_01_corb_des.emat"
    }
    ItemMaterialsOverride {
-    "{58B59DEEA2569758}Assets/Characters/HeadGear/Hat_Boonie_US_01/Data/Hat_Boonie_US_01_corb_wdl.emat"
+    "{3ED7934CDE54E781}Assets/Characters/HeadGear/Hat_Boonie_US_01/Data/Hat_Boonie_US_01_corb_des.emat"
    }
   }
  }

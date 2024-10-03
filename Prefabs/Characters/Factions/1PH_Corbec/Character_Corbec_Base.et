@@ -26,7 +26,7 @@ SCR_ChimeraCharacter : "{37578B1666981FCE}Prefabs/Characters/Core/Character_Base
     Icon "{A489F552FB7489C3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Custom.edds"
     m_sFaction "1PH_Corbec"
     m_aAuthoredLabels + {
-     2 11
+     2 -1144487295
     }
     m_aAutoLabels {
     }
@@ -36,7 +36,7 @@ SCR_ChimeraCharacter : "{37578B1666981FCE}Prefabs/Characters/Core/Character_Base
    WeaponTemplate "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et"
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{9C38B35C2CC96D4B}Prefabs/Weapons/Rifles/M16/Rifle_M16A3.et"
+   WeaponTemplate "{D963B1F5CB3F8E63}Prefabs/Weapons/Rifles/M16/Rifle_FC16A3.et"
    WeaponSlotIndex 0
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {

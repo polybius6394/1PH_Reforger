@@ -3,18 +3,18 @@ GameEntity : "{F516AD5284661632}Prefabs/Characters/HeadGear/Hat_Patrol_US_01/Hat
  components {
   MeshObject "{5112706CD4157AE0}" {
    Materials {
-    MaterialAssignClass "{6282E5DD3C46CFBB}" {
+    MaterialAssignClass "{628756918CB90F3A}" {
      SourceMaterial "Hat_Patrol_US_01"
-     AssignedMaterial "{ED60A1786C2F22A3}Assets/Characters/HeadGear/Hat_Patrol_US_01/Data/Hat_Patrol_US_01_corb_wdl.emat"
+     AssignedMaterial "{8B02AFDA102D527A}Assets/Characters/HeadGear/Hat_Patrol_US_01/Data/Hat_Patrol_US_01_corb_des.emat"
     }
    }
   }
   BaseLoadoutClothComponent "{5112706CD4157AF8}" {
    WornMaterialsOverride {
-    "{ED60A1786C2F22A3}Assets/Characters/HeadGear/Hat_Patrol_US_01/Data/Hat_Patrol_US_01_corb_wdl.emat"
+    "{8B02AFDA102D527A}Assets/Characters/HeadGear/Hat_Patrol_US_01/Data/Hat_Patrol_US_01_corb_des.emat"
    }
    ItemMaterialsOverride {
-    "{ED60A1786C2F22A3}Assets/Characters/HeadGear/Hat_Patrol_US_01/Data/Hat_Patrol_US_01_corb_wdl.emat"
+    "{8B02AFDA102D527A}Assets/Characters/HeadGear/Hat_Patrol_US_01/Data/Hat_Patrol_US_01_corb_des.emat"
    }
   }
  }
