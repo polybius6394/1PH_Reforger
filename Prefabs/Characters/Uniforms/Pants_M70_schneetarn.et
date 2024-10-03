@@ -3,7 +3,7 @@ GameEntity : "{6099177EBF8A16FC}Prefabs/Characters/Uniforms/Pants_M70_base.et" {
  components {
   MeshObject "{5104869D194C6262}" {
    Materials {
-    MaterialAssignClass "{6282E5DA1C30F353}" {
+    MaterialAssignClass "{6286820F0BC7E55B}" {
      SourceMaterial "Pants_M70_01_Item"
      AssignedMaterial "{103280DD6A7CADB1}Assets/Characters/Uniforms/Pants_M70/Data/Pants_M70_01_Item_schneetarn.emat"
     }

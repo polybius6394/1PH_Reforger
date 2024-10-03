@@ -12,7 +12,7 @@ GameEntity : "{8A5424D1A2AA6595}Prefabs/Characters/Uniforms/Jacket_US_BDU_base.e
   SCR_UniversalInventoryStorageComponent "{5222CB01D5B9A306}" {
    Attributes SCR_ItemAttributeCollection "{5222CB01245CDF32}" {
     ItemDisplayName UIInfo "{5222CB0109A04AB2}" {
-     Name "#AR-Uniform_BDU_Blouse_RolledUp_Name"
+     Name "Corbequais BDU Blouse - Woodland (Rolled)"
     }
     CustomAttributes {
      PreviewRenderAttributes "{555292467DA11B7C}" {

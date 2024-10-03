@@ -8,6 +8,6 @@ MatPBRMulti {
  DirtColor 1 1 1 1
  DirtRoughness 1.2
  DirtBCRMap "{03737892E28E626C}Assets/Characters/Uniforms/Jacket_BDU_M81/Data/Jacket_BDU_M81_wound_BCR.edds"
- BCR_1 "{72C00234361500C7}Patterns/tiger_fic_corb_wdl_neo_1.5x_BCR.edds"
+ BCR_1 "{BB503342F830BEB0}Assets/Characters/Uniforms/Jacket_BDU_M81/Data/Jacket_BDU_corb_wdl_BCR.edds"
  NMO_1 "{0B318BCA852FA03A}Assets/Characters/Uniforms/Jacket_BDU_M81/Data/Jacket_BDU_M81_NMO.edds" "{0B318BCA852FA03A}Assets/Characters/Uniforms/Jacket_BDU_M81/Data/Jacket_BDU_M81_NMO.edds" anim( 0 )
 }

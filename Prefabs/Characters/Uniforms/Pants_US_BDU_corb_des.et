@@ -11,6 +11,10 @@ GameEntity : "{27DABFBB719485AA}Prefabs/Characters/Uniforms/Pants_US_BDU_base.et
   }
   SCR_UniversalInventoryStorageComponent "{5222CB01D5B9A306}" {
    Attributes SCR_ItemAttributeCollection "{5222CB01245CDF32}" {
+    ItemDisplayName UIInfo "{5222CB0109A04AB2}" {
+     Name "Corbequais BDU Trousers - Desert"
+     Description "Standard issue Corbequais BDU trousers."
+    }
     CustomAttributes {
      PreviewRenderAttributes "{555292467DA11B7C}" {
       PreviewModel "{F3675A241847B157}Assets/Characters/Uniforms/Pants_BDU_M81/Pants_BDU_M81.xob"
@@ -20,10 +24,10 @@ GameEntity : "{27DABFBB719485AA}Prefabs/Characters/Uniforms/Pants_US_BDU_base.et
   }
   BaseLoadoutClothComponent "{5104869D194C627A}" {
    WornMaterialsOverride {
-    "{5FB53EB78A316563}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_corb_wdl_tucked.emat"
+    "{4CA89201F3A76F24}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_corb_des_tucked.emat"
    }
    ItemMaterialsOverride {
-    "{D109F154E8249FF3}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_corb_wdl_item.emat"
+    "{A47C3DF196764103}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_corb_des_item.emat"
    }
   }
  }

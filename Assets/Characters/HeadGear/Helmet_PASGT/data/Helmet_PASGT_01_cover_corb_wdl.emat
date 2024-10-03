@@ -5,7 +5,7 @@ MatPBRBasic {
  AllowUserAlphaBias 1
  DisableUserAphaInShadow 1
  EmissiveMap "{18F2A417E13FD1AD}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_01_cover_EM.edds"
- BCRMap "{4D5F6C562019AE3A}Patterns/tiger_fic_corb_wdl_neo_0.5x_BCR.edds"
+ BCRMap "{55B8D2C3B05EE246}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_corb_wdl_BCR.edds"
  OpacityMap "{70A53F4EA373F142}Assets/Characters/Basebody/Data/HeadClipping_A.edds"
  NMOMap "{691972F5D14455F9}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_01_cover_NMO.edds"
 }
