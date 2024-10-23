@@ -17,7 +17,7 @@ GameEntity : "{8A5424D1A2AA6595}Prefabs/Characters/Uniforms/Jacket_US_BDU_base.e
     }
     CustomAttributes {
      PreviewRenderAttributes "{555292467DA11B7C}" {
-      PreviewModel "{6075675D15317A2D}Assets/Characters/Uniforms/Jacket_BDU_M81/Jacket_BDU_M81.xob"
+      PreviewWornModel 1
      }
     }
    }

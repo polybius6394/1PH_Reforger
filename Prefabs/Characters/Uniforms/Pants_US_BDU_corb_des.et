@@ -17,7 +17,7 @@ GameEntity : "{27DABFBB719485AA}Prefabs/Characters/Uniforms/Pants_US_BDU_base.et
     }
     CustomAttributes {
      PreviewRenderAttributes "{555292467DA11B7C}" {
-      PreviewModel "{F3675A241847B157}Assets/Characters/Uniforms/Pants_BDU_M81/Pants_BDU_M81.xob"
+      PreviewWornModel 1
      }
     }
    }

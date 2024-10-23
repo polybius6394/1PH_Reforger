@@ -9,6 +9,16 @@ GenericEntity : "{3080C596359E66F8}Prefabs/Weapons/Rifles/M16/Rifle_FC16A3_Paint
       Prefab "{775E9992AF575338}Prefabs/Weapons/Attachments/Underbarrel/UGL_M203_long_OliveGreen_Sand_Stripes.et"
      }
     }
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     FireModes {
+      BaseFireMode "{B80A64F4A8EF8333}" {
+       RoundsPerMinute 800
+      }
+      BaseFireMode "{5534745C44D1EF22}" {
+       RoundsPerMinute 800
+      }
+     }
+    }
    }
   }
  }

@@ -20,7 +20,7 @@ GameEntity : "{6099177EBF8A16FC}Prefabs/Characters/Uniforms/Pants_M70_base.et" {
     }
     CustomAttributes {
      PreviewRenderAttributes "{555292467DA11B7C}" {
-      PreviewModel "{065DC5366BA23024}Assets/Characters/Uniforms/Pants_M70/Pants_M70_01.xob"
+      PreviewWornModel 1
      }
     }
    }

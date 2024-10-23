@@ -20,7 +20,7 @@ GameEntity : "{CA27CA71B3AF2FCF}Prefabs/Characters/Uniforms/Jacket_M70_base.et" 
     }
     CustomAttributes {
      PreviewRenderAttributes "{555292467DA11B7C}" {
-      PreviewModel "{7B65117028DECB01}Assets/Characters/Uniforms/Jacket_M70/Jacket_M70_01.xob"
+      PreviewWornModel 1
      }
     }
    }
@@ -34,6 +34,7 @@ GameEntity : "{CA27CA71B3AF2FCF}Prefabs/Characters/Uniforms/Jacket_M70_base.et" 
    ItemMaterialsOverride {
     "{FC3F99E12373D71C}Assets/Characters/Uniforms/Jacket_M70/Data/Jacket_M70_01_item_schneetarn.emat"
    }
+   DebugWornModel 1
   }
  }
 }
