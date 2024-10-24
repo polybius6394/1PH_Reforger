@@ -26,12 +26,13 @@ GenericEntity : "{9EFBCD4E87A7A29B}Prefabs/Weapons/Rifles/M14/Rifle_M14.et" {
      FireModes {
       BaseFireMode "{B80A64F4A8EF8333}" {
        MaxBurst -1
+       RoundsPerMinute 400
        UIName "Auto"
       }
       BaseFireMode "{622644976591EC3D}" {
+       MaxBurst 1
        BurstType Interruptable
-       RoundsPerMinute 350
-       UIName "Burst"
+       UIName "Single"
       }
      }
     }

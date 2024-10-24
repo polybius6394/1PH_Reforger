@@ -34,7 +34,6 @@ GameEntity : "{CA27CA71B3AF2FCF}Prefabs/Characters/Uniforms/Jacket_M70_base.et" 
    ItemMaterialsOverride {
     "{FC3F99E12373D71C}Assets/Characters/Uniforms/Jacket_M70/Data/Jacket_M70_01_item_schneetarn.emat"
    }
-   DebugWornModel 1
   }
  }
 }
