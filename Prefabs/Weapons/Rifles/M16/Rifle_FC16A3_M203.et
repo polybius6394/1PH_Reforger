@@ -15,6 +15,8 @@ GenericEntity : "{D963B1F5CB3F8E63}Prefabs/Weapons/Rifles/M16/Rifle_FC16A3.et" {
       PivotID "barrel_chamber"
       Prefab "{43FDAF3FA0FF2299}Prefabs/Weapons/Attachments/Underbarrel/UGL_M203_long.et"
      }
+     AttachmentType AttachmentUnderBarrelM203 "{58E2B5510A713A07}" {
+     }
     }
     MuzzleComponent "{CA6BE4D6B867541F}" {
      FireModes {

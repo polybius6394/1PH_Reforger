@@ -51,6 +51,8 @@ GenericEntity : "{9207B5D36C3C8C94}Prefabs/Weapons/Rifles/M16/Rifle_M16A2_carbin
       Prefab "{D711F819F3271AC6}Prefabs/Weapons/Attachments/Underbarrel/UGL_M203_short_OliveGreen_Sand_Stripes.et"
       InspectionWidgetOffset 0 0 0
      }
+     AttachmentType AttachmentUnderBarrelM203 "{58E2B5510A713A07}" {
+     }
     }
     MuzzleComponent "{CA6BE4D6B867541F}" {
      components {
