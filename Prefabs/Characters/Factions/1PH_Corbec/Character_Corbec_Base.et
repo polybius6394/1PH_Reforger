@@ -26,7 +26,7 @@ SCR_ChimeraCharacter : "{37578B1666981FCE}Prefabs/Characters/Core/Character_Base
     Icon "{A489F552FB7489C3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Custom.edds"
     m_sFaction "1PH_Corbec"
     m_aAuthoredLabels + {
-     2 -1144487295
+     2 -1144487295 -1144487296
     }
     m_aAutoLabels {
     }
