@@ -6,6 +6,6 @@ MatPBRMulti {
  DirtOpacity 3
  DirtRoughness 1.2
  DirtBCRMap "{032BC3E4375DE681}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_M81_wound_BCR.edds"
- BCR_1 "{F27E00C447B7E892}Patterns/tiger_fic_corb_des_neo_1.5x_BCR.edds"
+ BCR_1 "{B30A74BB8D0AC169}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_corb_des_tucked_BCR.edds"
  NMO_1 "{65157539EC947D16}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_M81_tucked_NMO.edds"
 }

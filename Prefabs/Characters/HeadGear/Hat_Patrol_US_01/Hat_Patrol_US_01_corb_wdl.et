@@ -1,6 +1,14 @@
 GameEntity : "{F516AD5284661632}Prefabs/Characters/HeadGear/Hat_Patrol_US_01/Hat_Patrol_US_01_base.et" {
  ID "5112706CD4157AC7"
  components {
+  InventoryItemComponent "{5244E4431E28A759}" {
+   Attributes SCR_ItemAttributeCollection "{52C8D601606EB93C}" {
+    ItemDisplayName UIInfo "{52C8D6016792E1B8}" {
+     Name "Corbequais Patrol Cap - Woodland"
+     Description "Standard issue Corbequais patrol cap."
+    }
+   }
+  }
   MeshObject "{5112706CD4157AE0}" {
    Materials {
     MaterialAssignClass "{6282E5D8A62C7CD2}" {
@@ -18,4 +26,5 @@ GameEntity : "{F516AD5284661632}Prefabs/Characters/HeadGear/Hat_Patrol_US_01/Hat
    }
   }
  }
+ coords 0.141 0.017 0.398
 }

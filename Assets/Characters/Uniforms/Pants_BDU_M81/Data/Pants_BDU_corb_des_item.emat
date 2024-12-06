@@ -1,5 +1,5 @@
 MatPBRBasic {
  CavityFromAO 0.64
- BCRMap "{F27E00C447B7E892}Patterns/tiger_fic_corb_des_neo_1.5x_BCR.edds"
+ BCRMap "{B81466D3CB128710}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_corb_des_tucked_item_BCR.edds"
  NMOMap "{8D5B3AC596481697}Assets/Characters/Uniforms/Pants_BDU_M81/Data/Pants_BDU_M81_item_NMO.edds"
 }
