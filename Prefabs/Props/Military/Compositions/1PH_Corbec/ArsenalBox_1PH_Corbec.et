@@ -31,5 +31,13 @@ GenericEntity : "{54986385A6AF77B2}Prefabs/Props/Military/Arsenal/ArsenalBoxes/A
   SCR_FactionAffiliationComponent "{5A50E7655452A21D}" {
    "faction affiliation" "1PH_Corbec"
   }
+  UniversalInventoryStorageComponent "{56F2C6D15FE6C4CE}" {
+   Attributes SCR_ItemAttributeCollection "{56F2C6D6A36680FB}" {
+    ItemDisplayName SCR_InventoryUIInfo "{56F2C6D6A229E091}" {
+     Name "Corbequais Arsenal"
+     Icon "{50757F3888C7A35C}UI/Textures/EditorPreviews/Auto/Props/Military/Compositions/US/E_ArsenalBox_US.edds"
+    }
+   }
+  }
  }
 }
