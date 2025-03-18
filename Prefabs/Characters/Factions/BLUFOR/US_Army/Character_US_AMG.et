@@ -33,6 +33,11 @@ SCR_ChimeraCharacter : "{284E735C6C70DAD2}Prefabs/Characters/Factions/BLUFOR/US_
       "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et" "{C2C08518F551C205}Prefabs/Weapons/Magazines/Magazine_762x51_FAL_Commonwealth_20rnd_BattleMix.et" "{C2C08518F551C205}Prefabs/Weapons/Magazines/Magazine_762x51_FAL_Commonwealth_20rnd_BattleMix.et" "{C2C08518F551C205}Prefabs/Weapons/Magazines/Magazine_762x51_FAL_Commonwealth_20rnd_BattleMix.et"
      }
     }
+    ItemsInitConfigurationItem "{5538C29BEE39272E}" {
+     PrefabsToSpawn {
+      "{D22DF40D07DA4615}Prefabs/Weapons/Magazines/Box_762x51_GPMG_100rnd_4Ball_1Tracer.et" "{D22DF40D07DA4615}Prefabs/Weapons/Magazines/Box_762x51_GPMG_100rnd_4Ball_1Tracer.et" "{D22DF40D07DA4615}Prefabs/Weapons/Magazines/Box_762x51_GPMG_100rnd_4Ball_1Tracer.et" "{D22DF40D07DA4615}Prefabs/Weapons/Magazines/Box_762x51_GPMG_100rnd_4Ball_1Tracer.et"
+     }
+    }
    }
   }
  }
