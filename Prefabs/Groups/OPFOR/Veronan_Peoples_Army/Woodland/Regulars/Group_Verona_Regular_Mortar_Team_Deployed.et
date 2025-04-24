@@ -1,0 +1,16 @@
+SCR_AIGroup : "{3DB5501E2A0A2A3C}Prefabs/Groups/OPFOR/Veronan_Peoples_Army/Woodland/Conscripts/Group_Verona_Conscript_Mortar_Team.et" {
+ ID "0000000000000001"
+ components {
+  SCR_EditableGroupComponent "{50D291F6C83FA532}" {
+   m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
+    Name "Mortar Team (Deployed)"
+    m_aAutoLabels {
+     -1144487293 -1144487284 -1144487275 -1144487267
+    }
+   }
+  }
+ }
+ m_aUnitPrefabSlots {
+  "{FCBB800E1DF930C6}Prefabs/Characters/Factions/OPFOR/Veronan_Peoples_Army/Woodland/Regulars/Mortarman/Character_Verona_Regular_Mortarman.et" "{4339FCBC732CE958}Prefabs/Characters/Factions/OPFOR/Veronan_Peoples_Army/Woodland/Regulars/AsstMortarman/Character_Verona_Regular_AsstMortarman.et" "{A4B04A5C6E90B19C}Prefabs/Characters/Factions/OPFOR/Veronan_Peoples_Army/Woodland/Regulars/MortarAmmoBearer/Character_Verona_Regular_MortarAmmoBearer.et" "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et"
+ }
+}
