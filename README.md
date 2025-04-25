@@ -1,1 +1,1 @@
-Different mods/missions are separated into their own branches so they can be released (and downloaded) separately!
+An update/overhaul to COALITION Static Weapon Framework, mainly to add different types of tripods, and support for mortars.
