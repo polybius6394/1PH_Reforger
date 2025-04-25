@@ -1,1 +1,1 @@
-Different mods/missions are separated into their own branches so they can be released (and downloaded) separately!
+Post Cold War ('91-97ish) Corbec faction. Split up due to inconsistent documentation for faction creation - when the documentation is updated, we'll merge them back. This is the replacer portion, replacing the USSR faction.
