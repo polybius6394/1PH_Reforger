@@ -4,7 +4,7 @@ GameEntity : "{F516AD5284661632}Prefabs/Characters/HeadGear/Hat_Patrol_US_01/Hat
   InventoryItemComponent "{5244E4431E28A759}" {
    Attributes SCR_ItemAttributeCollection "{52C8D601606EB93C}" {
     ItemDisplayName UIInfo "{52C8D6016792E1B8}" {
-     Name "Corbequais Patrol Cap - Woodland"
+     Name "Corbequais Patrol Cap (Woodland)"
      Description "Standard issue Corbequais patrol cap."
     }
    }

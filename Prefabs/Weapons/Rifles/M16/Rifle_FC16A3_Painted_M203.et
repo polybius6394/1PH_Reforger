@@ -23,8 +23,6 @@ GenericEntity : "{3080C596359E66F8}Prefabs/Weapons/Rifles/M16/Rifle_FC16A3_Paint
       BaseFireMode "{B80A64F4A8EF8333}" {
        RoundsPerMinute 800
       }
-      BaseFireMode "{5534745C44D1EF22}" {
-      }
      }
     }
    }

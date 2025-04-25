@@ -4,7 +4,7 @@ GameEntity : "{D4BC1F7EC5C290A3}Prefabs/Characters/HeadGear/Hat_Boonie_US_01/Hat
   InventoryItemComponent "{5244E4431E28A759}" {
    Attributes SCR_ItemAttributeCollection "{52C8D6017C371EA6}" {
     ItemDisplayName UIInfo "{52C8D60173B1164A}" {
-     Name "Corbequais Boonie Hat - Olive"
+     Name "Corbequais Boonie Hat (Olive)"
      Description "Older Corbequais boonie hat, found in limited use by reserve units and para-hussars."
     }
     ItemPhysAttributes ItemPhysicalAttributes "{52C8D6017161AECA}" {

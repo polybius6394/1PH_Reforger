@@ -18,12 +18,6 @@ GenericEntity : "{D963B1F5CB3F8E63}Prefabs/Weapons/Rifles/M16/Rifle_FC16A3.et" {
      AttachmentType AttachmentUnderBarrelM203 "{58E2B5510A713A07}" {
      }
     }
-    MuzzleComponent "{CA6BE4D6B867541F}" {
-     FireModes {
-      BaseFireMode "{5534745C44D1EF22}" {
-      }
-     }
-    }
    }
    UIInfo WeaponUIInfo "{CC3BA6A2C42F09F4}" {
     Name "FC16A3 (M203)"
