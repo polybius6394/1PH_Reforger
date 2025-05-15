@@ -3,6 +3,9 @@ GenericEntity : "{156DC7109CEE6F69}Prefabs/Characters/Vests/Vest_ALICE/Variants/
  components {
   BaseLoadoutClothComponent "{5312D798A71DFBB1}" {
    Slots {
+    LoadoutSlotInfo Suspenders {
+     Prefab "{4A154B3B40D98CA7}Prefabs/Characters/Vests/Vest_ALICE/Vest_ALICE_suspenders_2_nomark.et"
+    }
     LoadoutSlotInfo MagPouch {
      Prefab "{C098D691ADCCA7C9}Prefabs/Items/Equipment/Accessories/Pouch_ALICE_200rnd_M249/Pouch_ALICE_200rnd_M249_nomark.et"
     }
