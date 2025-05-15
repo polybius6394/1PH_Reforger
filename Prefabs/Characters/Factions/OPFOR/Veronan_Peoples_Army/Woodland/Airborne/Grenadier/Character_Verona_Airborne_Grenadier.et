@@ -14,7 +14,7 @@ SCR_ChimeraCharacter : "{6C5FF2067F4F4EF0}Prefabs/Characters/Factions/OPFOR/Vero
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{EFDA217D376DA7C6}Prefabs/Weapons/Rifles/AK74/Rifle_AKS74_GP25.et"
+   WeaponTemplate "{63E8322E2ADD4AA7}Prefabs/Weapons/Rifles/AK74/Rifle_AK74_GP25.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {

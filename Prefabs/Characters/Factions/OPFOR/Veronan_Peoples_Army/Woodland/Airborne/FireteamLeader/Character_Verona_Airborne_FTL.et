@@ -14,7 +14,7 @@ SCR_ChimeraCharacter : "{6C5FF2067F4F4EF0}Prefabs/Characters/Factions/OPFOR/Vero
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{6C12A7C7C3EEFF1B}Prefabs/Weapons/Rifles/AK74/Rifle_AKS74N_1P29.et"
+   WeaponTemplate "{EB404DC9E1BCB750}Prefabs/Weapons/Rifles/AK74/Rifle_AK74N_1P29.et"
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
    WeaponTemplate "{4A4BFB368D4D830D}Prefabs/Weapons/Launchers/M72/Launcher_M72A3_RPG18.et"

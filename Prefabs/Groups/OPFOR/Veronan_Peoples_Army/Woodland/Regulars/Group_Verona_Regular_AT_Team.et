@@ -4,7 +4,6 @@ SCR_AIGroup : "{524ED0151EE8167E}Prefabs/Groups/OPFOR/Veronan_Peoples_Army/Group
   SCR_EditableGroupComponent "{50D291F6C83FA532}" {
    m_UIInfo SCR_EditableGroupUIInfo "{5298E609432D192D}" {
     Name "Anti-Tank Team"
-    m_Image "{73D2001F6BA8C1F1}Icons/verona_BCR.edds"
     m_aAutoLabels {
      -1144487293 -1144487284 -1144487275 -1144487264
     }

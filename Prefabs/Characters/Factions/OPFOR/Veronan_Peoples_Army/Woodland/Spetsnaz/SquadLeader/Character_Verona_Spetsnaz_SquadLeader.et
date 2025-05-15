@@ -48,7 +48,7 @@ SCR_ChimeraCharacter : "{6C5FF2067F4F4EF0}Prefabs/Characters/Factions/OPFOR/Vero
    WeaponTemplate "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et"
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{2EBBD9C0D03EA841}Prefabs/Weapons/Rifles/AK74/Rifle_AKS74N_GP25_1P29_PBS4.et"
+   WeaponTemplate "{3E68E851B5BC83CF}Prefabs/Weapons/Rifles/AK74/Rifle_AK74N_1P29_PBS4_GP25.et"
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
    WeaponTemplate "{C0F7DD85A86B2900}Prefabs/Weapons/Handguns/PM/Handgun_PM.et"
